@@ -1,0 +1,20 @@
+[
+{
+"id": "1",
+"name": "Facebook",
+"tagline": "The fastest way to always stay up to date.",
+"imageUrl": "https://cdn.pixabay.com/photo/2018/06/19/17/50/facebook-icon-3484915_960_720.jpg"
+},
+{
+"id": "2",
+"name": "Instagram",
+"tagline": "Share every moment whenever you want.",
+"imageUrl": "https://cdn.pixabay.com/photo/2019/09/21/01/34/influencer-4492841_960_720.jpg"
+},
+{
+"id": "3",
+"name": "Linkedin",
+"tagline": "The fastest and easiest way to find a job.",
+"imageUrl": "https://cdn.pixabay.com/photo/2022/06/05/21/14/resume-7244898_960_720.png"
+}
+]
